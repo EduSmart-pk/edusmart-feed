@@ -1,7 +1,7 @@
 {
   "banners": [
-    { "id": "b1", "title": "Banner 1", "imageUrl": "https://raw.githubusercontent.com/<EduSmart-pk>/edusmart-feed/main/banner1.png", "link": "https://wa.me/923024166018", "audience": "all" },
-    { "id": "b2", "title": "Banner 2", "imageUrl": "https://raw.githubusercontent.com/<EduSmart-pk>/edusmart-feed/main/banner2.png", "link": "https://wa.me/923024166018", "audience": "all" },
-    { "id": "b3", "title": "Banner 3", "imageUrl": "https://raw.githubusercontent.com/<EduSmart-pk>/edusmart-feed/main/banner3.png", "link": "https://wa.me/923024166018", "audience": "trial" }
+    { "id": "b1", "title": "Banner 1", "imageUrl": "https://raw.githubusercontent.com/EduSmart-pk/edusmart-feed/main/banner%201.png", "link": "https://wa.me/923024166018", "audience": "all" },
+    { "id": "b2", "title": "Banner 2", "imageUrl": "https://raw.githubusercontent.com/EduSmart-pk/edusmart-feed/main/banner%202.png", "link": "https://wa.me/923024166018", "audience": "all" },
+    { "id": "b3", "title": "Banner 3", "imageUrl": "https://raw.githubusercontent.com/EduSmart-pk/edusmart-feed/main/banner%203.png", "link": "https://wa.me/923024166018", "audience": "all" }
   ]
 }
